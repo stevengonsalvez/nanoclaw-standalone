@@ -1,0 +1,6 @@
+# Historical gitleaks hits present when this gate was added (2026-10-13).
+# Reviewed as test fixtures and placeholders. A new leak is not in this list and fails CI.
+# Remove a line once its value is rotated or the file is gone. Do not add a line to hide a new leak.
+29d8f4327460294e494a19569dd2521a610306c4:.claude/skills/migrate-nanoclaw/diagnostics.md:generic-api-key:16
+29d8f4327460294e494a19569dd2521a610306c4:.claude/skills/setup/diagnostics.md:generic-api-key:18
+29d8f4327460294e494a19569dd2521a610306c4:.claude/skills/update-nanoclaw/diagnostics.md:generic-api-key:17
